@@ -1,0 +1,464 @@
+Last login: Thu May 26 20:04:16 on console
+displaycomputer@DisplayComputers-MacBook-Pro ~ % npm install --save neo4j-driver 
+
+added 12 packages, and audited 13 packages in 7s
+
+4 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm notice 
+npm notice New minor version of npm available! 8.5.2 -> 8.11.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.11.0
+npm notice Run npm install -g npm@8.11.0 to update!
+npm notice 
+displaycomputer@DisplayComputers-MacBook-Pro ~ % `npm fund`
+zsh: command not found: displaycomputer
+displaycomputer@DisplayComputers-MacBook-Pro ~ % Run npm install -g npm@8.11.0
+zsh: command not found: Run
+displaycomputer@DisplayComputers-MacBook-Pro ~ %  npm install -g npm@8.11.0 
+npm ERR! code EACCES
+npm ERR! syscall rename
+npm ERR! path /usr/local/lib/node_modules/npm
+npm ERR! dest /usr/local/lib/node_modules/.npm-i9nnxROI
+npm ERR! errno -13
+npm ERR! Error: EACCES: permission denied, rename '/usr/local/lib/node_modules/npm' -> '/usr/local/lib/node_modules/.npm-i9nnxROI'
+npm ERR!  [Error: EACCES: permission denied, rename '/usr/local/lib/node_modules/npm' -> '/usr/local/lib/node_modules/.npm-i9nnxROI'] {
+npm ERR!   errno: -13,
+npm ERR!   code: 'EACCES',
+npm ERR!   syscall: 'rename',
+npm ERR!   path: '/usr/local/lib/node_modules/npm',
+npm ERR!   dest: '/usr/local/lib/node_modules/.npm-i9nnxROI'
+npm ERR! }
+npm ERR! 
+npm ERR! The operation was rejected by your operating system.
+npm ERR! It is likely you do not have the permissions to access this file as the current user
+npm ERR! 
+npm ERR! If you believe this might be a permissions issue, please double-check the
+npm ERR! permissions of the file and its containing directories, or try running
+npm ERR! the command again as root/Administrator.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/displaycomputer/.npm/_logs/2022-05-28T11_52_38_846Z-debug-0.log
+displaycomputer@DisplayComputers-MacBook-Pro ~ % 8080TREEHABMAFIA
+zsh: command not found: 8080TREEHABMAFIA
+displaycomputer@DisplayComputers-MacBook-Pro ~ % 
+  [Restored 2 Jun 2022 at 10:49:27]
+Last login: Sat Jan  1 03:00:55 on console
+displaycomputer@DisplayComputers-MacBook-Pro ~ % /bin/bash <(curl -fsSL 'https://raw.githubusercontent.com/Kong/konnect-runtimes/master/konnect-runtime-setup.sh') \
+-api https://konnect.konghq.com \
+-u 'E.KIIRU@STUDENT.UNISI.IT' \
+-p '<konnect-password>' \
+-r 'kong' \
+-ri 'kong-gateway:2.8.1.1-alpine'
+*** Welcome to the rocketship ***
+Running checks...
+Error:  docker needs to be installed
+displaycomputer@DisplayComputers-MacBook-Pro ~ % >....                          
+UCaMwho714PgU6G2bNs8I8ioq5MuIV1wntTbqy33gKuVxprjsTUjZwgQDAtzoWWq
+cf77EEjqyw==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+/LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+Dckc
+-----END CERTIFICATE-----
+zsh: command not found: -----BEGIN
+zsh: command not found: MIIDkzCCAnugAwIBAgIUb0uREsxLspj3TEnxWlQgNk8AyeowDQYJKoZIhvcNAQEL
+zsh: command not found: BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIyMDYwMjA5MjIxOVoXDTIyMTIw
+zsh: command not found: MTIxMjI0OVowPjE8MDoGA1UEAxMzZDEubWluZGluY2NvcnBvcmF0ZTczODkyNS5w
+zsh: command not found: Lmtvbm5lY3QtcHJvZC5rb25naHEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+zsh: no such file or directory: MIIBCgKCAQEA8AYXmQmhyw5KymGC/t+4wOAWATB9x7XaE0tlBVplTg9NwTHYxD0C
+zsh: no such file or directory: h9QHrxMQGvqMbyw/CGJK0GKIyBFlKsg/9qkReMYwSKMhD0/bm8wUDiYZqav5Fuyj
+zsh: no such file or directory: vn/Ff3HndOtZkaHpOQk2U4YHlhGlORB3hFsoDyA9tRtNwLQUmhBI26OXMqI9WUOD
+zsh: no such file or directory: S2g7YCT45US3SpYFyFWAzoH2ND8U6vy3VJ3OfF/tRlhRILQg6CtbonYyEpg0QxFA
+zsh: no such file or directory: c6JaBWUWubcj2lHJ9IIiTg2CLZUfX22nVsgSza8uyWeQGWe/5mpgng4lhv7suWmn
+zsh: no such file or directory: zHBWbIYsHcz/ZDv8LjbY02oMq/Cb9U2XdQIDAQABo4GyMIGvMA4GA1UdDwEB/wQE
+zsh: command not found: AwIDqDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFK9l
+zsh: no such file or directory: Jjn8c0VZ/6oW8VoorWz/yHv0MB8GA1UdIwQYMBaAFDxj3SFYzwZ51DtfJZYeN/oC
+zsh: command not found: iPZkMD4GA1UdEQQ3MDWCM2QxLm1pbmRpbmNjb3Jwb3JhdGU3Mzg5MjUucC5rb25u
+zsh: no such file or directory: ZWN0LXByb2Qua29uZ2hxLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAy/5PGtCi040D
+zsh: no such file or directory: vXiPcCoB+46PqK+Hfz8Ur/KbFPjIGwuQdS4KzJGMdzEs1AkX6qTANg4KldjRiVfK
+zsh: no such file or directory: hFJfIj5n35d5Rauftplsfq/Qxkw6aj7NXvbiuRSxGbR8VAS/TTG+Z7nzuQzwX2lb
+zsh: command not found: Zzvn0LF0lGhFbIlFraFMjBqEJrGUnbQ0HaPraIAN+Kby5x7Ab3fspHuAxukt9u4U
+zsh: command not found: eBMlHoZ9eLRoemSd9OnU7uGYez5ge2PBZuxgIbVlT5XNBiKUNZ9jB6zfkbyjheGG
+zsh: command not found: UCaMwho714PgU6G2bNs8I8ioq5MuIV1wntTbqy33gKuVxprjsTUjZwgQDAtzoWWq
+zsh: command not found: -----END
+zsh: command not found: -----BEGIN
+zsh: command not found: MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+zsh: command not found: BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+zsh: command not found: NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+zsh: no such file or directory: AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+zsh: no such file or directory: JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+zsh: command not found: NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+zsh: no such file or directory: 7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+zsh: no such file or directory: WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+zsh: command not found: 4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+zsh: no such file or directory: Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+zsh: command not found: lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+zsh: command not found: BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+zsh: no such file or directory: WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+zsh: no such file or directory: lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+zsh: no such file or directory: /LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+zsh: no such file or directory: wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+zsh: no such file or directory: iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+zsh: command not found: Dckc
+zsh: command not found: -----END
+displaycomputer@DisplayComputers-MacBook-Pro ~ % >....                          
+WUODS2g7YCT45US3SpYFyFWAzoH2ND8U6vy3VJ3OfF/tRlhRILQg6CtbonYyEpg0
+QxFAc6JaBWUWubcj2lHJ9IIiTg2CLZUfX22nVsgSza8uyWeQGWe/5mpgng4lhv7s
+uWmnzHBWbIYsHcz/ZDv8LjbY02oMq/Cb9U2XdQIDAQABAoIBAHbsHc8GdbJc33OM
+gtHzWN+/Z0eplfhYQrdimKfhVOYrMPQy1VrNe65+wFvfDxC+6MvAWW62/Kho2ap+
+6+gZlY+Jzw1O7OdgY+XpRD7aC2nDON3XRjA0iSC+v8TYU7ybSyKb3SkURmV1t9aD
+4Z/3Z7AdVijAabKM16ZN0xNOVDr1yi/pwqJ3xOIlGI8+3EG2HtbBKp7XKU4Zr0FK
+O8GkzSMpoSGDZJoq9dnS4LrFPI+T0Jx8dJ/bX7OpR4f32jQXmv66ewp6/31dn96H
+P5I/B815IR03PCjVjPnCdXRNErno5oVnfPhxIUnggqMjrImjSPCE1zmq6iFPuVBQ
+E1YEsGECgYEA+2gHfTOjNmXmw2VfFkmScbfrePjfa7sc5TJeHCiDYL8ooIVQWZ87
+lBBTYeoNFRS8AHEm7M50YmSVa5qj2FUJlk5i9ejUaBiIl/KTgqDdcVB9P+MRyIS0
+5eIInyRmk54S/rf+FDTCcpycLa/DmbdHVCko/m2cDUlYSFwqxZpjx1kCgYEA9GjR
+9yrVk9A6Iw8MFn7y0DqkS4wEBiIzcScEKlO7Q/5lIiVZ7/YtEOlcwqNHkbR5WMmy
+jK6ddE2YFuw+77Ivx4nS++Y6wX+00uyfgOb4xIfxyynvoE87sIlqoQQYEfoQKrVx
+hTV9UonrmhqBd/ycRofPe5+mDA1OkiVMgYfoKX0CgYEA1IArDF3wUBO0CWcPB4Sq
+fuqp43fhSWtAUk7Pk1d/LPCHQ59LumVIc6+U+0ddRXtgKbN65mDfqSdB0VFFup6u
+Wtjo9tiVaWOLWXwVyS1138jcBXtGVcouKb1z8ihPd+j+P0WAQs4RqdTMgiV13OE5
+Ll8YIm69n9FmCMu2742/VwkCgYBimZLzGtW03xFFKYHf5XEBrlavn5nT+6IzKOFW
+ThdDM/MK1nS1CORfaTWh1AtAbcVym1Qryxn8XH1Z6g7t1j3OSvzR4KydeW6ylQE4
+GHYNmyZhptZkHvLeomFg+ezX+8Df6fkVG2ImlTt2HPFUPZWyIoICxoJPZGLpNKDr
+tK9lZQKBgFbVOtdbHiebLSjtmjcwho4NJ8DtYIkfD3ligbdTVfXZw+MOtgZ7nNvM
+J+x57MxYuhiihToC+dYQ1S1toemGIYYvtmrSj9GBdtEwfNEkSWmC1vNybKeOyWW8
+b1HUW1tCaPeUMNtbm+G6QmD+0TQZwhtlo7fvQyCTrywT9sZ34buO
+-----END RSA PRIVATE KEY-----
+zsh: command not found: -----BEGIN
+zsh: no such file or directory: MIIEowIBAAKCAQEA8AYXmQmhyw5KymGC/t+4wOAWATB9x7XaE0tlBVplTg9NwTHY
+zsh: no such file or directory: xD0Ch9QHrxMQGvqMbyw/CGJK0GKIyBFlKsg/9qkReMYwSKMhD0/bm8wUDiYZqav5
+zsh: no such file or directory: Fuyjvn/Ff3HndOtZkaHpOQk2U4YHlhGlORB3hFsoDyA9tRtNwLQUmhBI26OXMqI9
+zsh: no such file or directory: WUODS2g7YCT45US3SpYFyFWAzoH2ND8U6vy3VJ3OfF/tRlhRILQg6CtbonYyEpg0
+zsh: no such file or directory: QxFAc6JaBWUWubcj2lHJ9IIiTg2CLZUfX22nVsgSza8uyWeQGWe/5mpgng4lhv7s
+zsh: no such file or directory: uWmnzHBWbIYsHcz/ZDv8LjbY02oMq/Cb9U2XdQIDAQABAoIBAHbsHc8GdbJc33OM
+zsh: no such file or directory: gtHzWN+/Z0eplfhYQrdimKfhVOYrMPQy1VrNe65+wFvfDxC+6MvAWW62/Kho2ap+
+zsh: command not found: 6+gZlY+Jzw1O7OdgY+XpRD7aC2nDON3XRjA0iSC+v8TYU7ybSyKb3SkURmV1t9aD
+zsh: no such file or directory: 4Z/3Z7AdVijAabKM16ZN0xNOVDr1yi/pwqJ3xOIlGI8+3EG2HtbBKp7XKU4Zr0FK
+zsh: no such file or directory: O8GkzSMpoSGDZJoq9dnS4LrFPI+T0Jx8dJ/bX7OpR4f32jQXmv66ewp6/31dn96H
+zsh: no such file or directory: P5I/B815IR03PCjVjPnCdXRNErno5oVnfPhxIUnggqMjrImjSPCE1zmq6iFPuVBQ
+zsh: command not found: E1YEsGECgYEA+2gHfTOjNmXmw2VfFkmScbfrePjfa7sc5TJeHCiDYL8ooIVQWZ87
+zsh: no such file or directory: lBBTYeoNFRS8AHEm7M50YmSVa5qj2FUJlk5i9ejUaBiIl/KTgqDdcVB9P+MRyIS0
+zsh: no such file or directory: 5eIInyRmk54S/rf+FDTCcpycLa/DmbdHVCko/m2cDUlYSFwqxZpjx1kCgYEA9GjR
+zsh: no such file or directory: 9yrVk9A6Iw8MFn7y0DqkS4wEBiIzcScEKlO7Q/5lIiVZ7/YtEOlcwqNHkbR5WMmy
+zsh: command not found: jK6ddE2YFuw+77Ivx4nS++Y6wX+00uyfgOb4xIfxyynvoE87sIlqoQQYEfoQKrVx
+zsh: no such file or directory: hTV9UonrmhqBd/ycRofPe5+mDA1OkiVMgYfoKX0CgYEA1IArDF3wUBO0CWcPB4Sq
+zsh: no such file or directory: fuqp43fhSWtAUk7Pk1d/LPCHQ59LumVIc6+U+0ddRXtgKbN65mDfqSdB0VFFup6u
+zsh: command not found: Wtjo9tiVaWOLWXwVyS1138jcBXtGVcouKb1z8ihPd+j+P0WAQs4RqdTMgiV13OE5
+zsh: no such file or directory: Ll8YIm69n9FmCMu2742/VwkCgYBimZLzGtW03xFFKYHf5XEBrlavn5nT+6IzKOFW
+zsh: no such file or directory: ThdDM/MK1nS1CORfaTWh1AtAbcVym1Qryxn8XH1Z6g7t1j3OSvzR4KydeW6ylQE4
+zsh: command not found: GHYNmyZhptZkHvLeomFg+ezX+8Df6fkVG2ImlTt2HPFUPZWyIoICxoJPZGLpNKDr
+zsh: command not found: tK9lZQKBgFbVOtdbHiebLSjtmjcwho4NJ8DtYIkfD3ligbdTVfXZw+MOtgZ7nNvM
+zsh: command not found: J+x57MxYuhiihToC+dYQ1S1toemGIYYvtmrSj9GBdtEwfNEkSWmC1vNybKeOyWW8
+zsh: command not found: b1HUW1tCaPeUMNtbm+G6QmD+0TQZwhtlo7fvQyCTrywT9sZ34buO
+zsh: command not found: -----END
+displaycomputer@DisplayComputers-MacBook-Pro ~ % -----BEGIN CERTIFICATE-----
+MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+/LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+Dckc
+-----END CERTIFICATE-----
+zsh: command not found: -----BEGIN
+zsh: command not found: MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+zsh: command not found: BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+zsh: command not found: NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+zsh: no such file or directory: AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+zsh: no such file or directory: JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+zsh: command not found: NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+zsh: no such file or directory: 7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+zsh: no such file or directory: WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+zsh: command not found: 4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+zsh: no such file or directory: Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+zsh: command not found: lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+zsh: command not found: BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+zsh: no such file or directory: WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+zsh: no such file or directory: lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+zsh: no such file or directory: /LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+zsh: no such file or directory: wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+zsh: no such file or directory: iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+zsh: command not found: Dckc
+zsh: command not found: -----END
+displaycomputer@DisplayComputers-MacBook-Pro ~ % role = data_plane
+database = off
+vitals_ttl_days = 732
+cluster_mtls = pki
+cluster_control_plane = kong-cpoutlet-mindinccorporate738925.cp.konnect.konghq.com:443
+cluster_server_name = kong-cpoutlet-mindinccorporate738925.cp.konnect.konghq.com 
+cluster_telemetry_endpoint = kong-telemetry-mindinccorporate738925.tp.konnect.konghq.com:443
+cluster_telemetry_server_name = kong-telemetry-mindinccorporate738925.tp.konnect.konghq.com
+cluster_cert = <path-to-certificate>
+cluster_ca_cert = <path-to-ca-certificate>
+cluster_cert_key = <path-to-certificate-key>
+zsh: parse error near `\n'
+displaycomputer@DisplayComputers-MacBook-Pro ~ % -----BEGIN CERTIFICATE-----
+MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+/LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+Dckc
+-----END CERTIFICATE-----
+zsh: command not found: -----BEGIN
+zsh: command not found: MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+zsh: command not found: BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+zsh: command not found: NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+zsh: no such file or directory: AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+zsh: no such file or directory: JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+zsh: command not found: NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+zsh: no such file or directory: 7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+zsh: no such file or directory: WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+zsh: command not found: 4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+zsh: no such file or directory: Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+zsh: command not found: lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+zsh: command not found: BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+zsh: no such file or directory: WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+zsh: no such file or directory: lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+zsh: no such file or directory: /LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+zsh: no such file or directory: wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+zsh: no such file or directory: iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+zsh: command not found: Dckc
+zsh: command not found: -----END
+displaycomputer@DisplayComputers-MacBook-Pro ~ % >....                          
+V3pc3cz+1ciImlHBAzjK/eZPKVW3BAH6Fzb6D0Wa6/RicW5bAq9d/p+k2qJWwt3B
+IKgUUjYnYg==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+/LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+Dckc
+-----END CERTIFICATE-----
+zsh: command not found: -----BEGIN
+zsh: no such file or directory: MIIDkzCCAnugAwIBAgIUeZwS7eCN5XGt7pXsuJ3LaUx/IU4wDQYJKoZIhvcNAQEL
+zsh: command not found: BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIyMDYwMjA5MjQxN1oXDTIyMTIw
+zsh: command not found: MTIxMjQ0N1owPjE8MDoGA1UEAxMzZDEubWluZGluY2NvcnBvcmF0ZTczODkyNS5w
+zsh: command not found: Lmtvbm5lY3QtcHJvZC5rb25naHEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+zsh: command not found: MIIBCgKCAQEA6wOsv3ZjqOV7nZwphh7JekkweSMj6cJ90marXDfkTG3MkW+FTS7M
+zsh: no such file or directory: k0rkJqUY5ephitJK55ZZ9aQtM2l9LRJsd2EYWtzJO2CPjpgm+YsJQ+OhrAXFKS/v
+zsh: no such file or directory: GzlPAaxRVHAIQGjOgj2xkNnTeLJS3tAwxi6GlGYLo/ted+53CD6Ldr1bGF3bU4SI
+zsh: no such file or directory: XnKghleudM6yTdAWdAv0Q+46rFW8MSm+jkUJLXhZdyTxBMc8hvGuCrXVuZR78kU/
+zsh: no such file or directory: OgD+RqzG+C1ARy4vnja8pa21Piiy2iwLr30kDY70AXLkXo8DYqubefZ/Pz3bToDB
+zsh: no such file or directory: 0Uy5Skn60GQ+A/sk1nlW+zKoB7idsTMoywIDAQABo4GyMIGvMA4GA1UdDwEB/wQE
+zsh: command not found: AwIDqDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFHB1
+zsh: no such file or directory: PLbQbg4N7ovkxL8rOI7t7Ir8MB8GA1UdIwQYMBaAFDxj3SFYzwZ51DtfJZYeN/oC
+zsh: command not found: iPZkMD4GA1UdEQQ3MDWCM2QxLm1pbmRpbmNjb3Jwb3JhdGU3Mzg5MjUucC5rb25u
+zsh: command not found: ZWN0LXByb2Qua29uZ2hxLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAKuDuzpMQumf3
+zsh: no such file or directory: ou3ZEHlq7GLA1Ovsu23yyxsdn54bJKB/pjWOg4YiwjBnuNS2VSvY6AeALNjAkzy3
+zsh: command not found: H3Rhc8fH+oQgSNSA7Upof45vQlpSI6ETJ1JmvS002uHVWa7CuzK+kdojafjS6ahc
+zsh: no such file or directory: 4btspvduypvii/i1Ud6pfUYzQ08zxbsZHoysAqmw5YlHjT9MCtQgal2x5XSeWYCs
+zsh: no such file or directory: 5p5V3r3UIziKh1FGaEvtwd/L3fHkLuukODwYU6IRid4xXe8288MzK+nVnzNCS1Ng
+zsh: no such file or directory: V3pc3cz+1ciImlHBAzjK/eZPKVW3BAH6Fzb6D0Wa6/RicW5bAq9d/p+k2qJWwt3B
+zsh: command not found: -----END
+zsh: command not found: -----BEGIN
+zsh: command not found: MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+zsh: command not found: BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+zsh: command not found: NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+zsh: no such file or directory: AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+zsh: no such file or directory: JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+zsh: command not found: NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+zsh: no such file or directory: 7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+zsh: no such file or directory: WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+zsh: command not found: 4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+zsh: no such file or directory: Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+zsh: command not found: lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+zsh: command not found: BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+zsh: no such file or directory: WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+zsh: no such file or directory: lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+zsh: no such file or directory: /LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+zsh: no such file or directory: wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+zsh: no such file or directory: iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+zsh: command not found: Dckc
+zsh: command not found: -----END
+displaycomputer@DisplayComputers-MacBook-Pro ~ % >....                          
+U4SIXnKghleudM6yTdAWdAv0Q+46rFW8MSm+jkUJLXhZdyTxBMc8hvGuCrXVuZR7
+8kU/OgD+RqzG+C1ARy4vnja8pa21Piiy2iwLr30kDY70AXLkXo8DYqubefZ/Pz3b
+ToDB0Uy5Skn60GQ+A/sk1nlW+zKoB7idsTMoywIDAQABAoIBAQDTbP/pU4m+9Yzr
+MwVMSsA5SkTYhhuV/koRkhoRoZq6g4EpSenjkPmsfRCaD6dBmEVejWejxuhxi9y6
+Rum9NbjtASXXAI/s4ibkQs+1ajbQo6Xby2kfb6ctl7YTLEISs6NIxsEZ/ISVatHL
+4KmbGDL45/xc3x0Tzl2jiZ3+hb4T9/a3BVeQgoi+0wI4lIErHmLaAv1wrQv004Dy
+Zjnmz8nxId1872VpHeCly0Khh0lvHjha6pzvFrezVsFDwQZBQ8XtC1e3lT7mb6z/
+xVG44BW8jQc3ckoIXdA9VW0DpWtV0eiSh+P3P0iGVTtosF8QjgsYPHgoMo28lLQt
+Covb2M1xAoGBAO0CQ4fB/fMJ0LxHocB7RCVtyxhJKieoL4ioEmNodO3CzyzewT+g
+i21pLAJ3PDVZTxY6nA8f9/KHJYF2EbDyuYbrg4GPlH2fxCGalcJKGNLxQ02JWAtU
+X3iBD8kodHr4xDI3UgbD9yEXr64UWWYM6dRxelD1xsEmo8r8CbGpUMcJAoGBAP3Y
+f4/d0HGo1WIXSDrj/mmQb4fRrYgnJ+YQi7w+/PNImzq/MfyZ8wi9RTFLuFMGPKMj
+RZd92xw5bVC7kC7nb4h/kurMN/yVS7ituoGWz3QRxFyfFb4bzUhKYxpRVsWEWz1r
+ZzKE0W/TvYXoREUXsNhhAIG91kFN0umPdbmqjfIzAoGAIiORVpy616cySeyHgBJB
+XqLR/k2LpOq07hpHi8ogDZ9h+DSd4WxeqQPdMv25znVuzuTiVctlC6or3NoE8lgE
+IUsLRj5IRVAeEDkUGUhTCw91glWmOPuORO1SOMd6/7uVhyYwyoivsDSZOZn0xp5V
+kCRIWiEM4AWQ0kw7mTuqRwECgYBBxtXXG60lppAUaOAIkoecJxcfZI/I1gyaqvLq
+ho/ZIplGscBsKiA1xYWmbm6G5PjVdRBVXwFl4OOYpeGIpePaxOP2/5AKXU1Pv4Sy
+i7eZ5fix328s4dthvhTL/wOzDsbttWT6TDxQ89cKWdNG7AqhJxGQjPZ12YqrhscE
+o1NAzQKBgBCcaEnxupeKlzZ84/F1HUKJH0s86gFhWvVNFBFZTvoQqhyGmHPU0Dil
+mDHwsFLWV49Baw8GA+kiNiywVDhBtIIGJpH/jfjVGlJ4o/GTZQ1hPqHZdGdnph7s
+46uAiiR5IjFr++M+em5mq9zlMifuwUUXE34aLqHAl+SbNIPMGgSD
+-----END RSA PRIVATE KEY-----
+zsh: command not found: -----BEGIN
+zsh: command not found: MIIEowIBAAKCAQEA6wOsv3ZjqOV7nZwphh7JekkweSMj6cJ90marXDfkTG3MkW+F
+zsh: command not found: TS7Mk0rkJqUY5ephitJK55ZZ9aQtM2l9LRJsd2EYWtzJO2CPjpgm+YsJQ+OhrAXF
+zsh: no such file or directory: KS/vGzlPAaxRVHAIQGjOgj2xkNnTeLJS3tAwxi6GlGYLo/ted+53CD6Ldr1bGF3b
+zsh: command not found: U4SIXnKghleudM6yTdAWdAv0Q+46rFW8MSm+jkUJLXhZdyTxBMc8hvGuCrXVuZR7
+zsh: no such file or directory: 8kU/OgD+RqzG+C1ARy4vnja8pa21Piiy2iwLr30kDY70AXLkXo8DYqubefZ/Pz3b
+zsh: no such file or directory: ToDB0Uy5Skn60GQ+A/sk1nlW+zKoB7idsTMoywIDAQABAoIBAQDTbP/pU4m+9Yzr
+zsh: no such file or directory: MwVMSsA5SkTYhhuV/koRkhoRoZq6g4EpSenjkPmsfRCaD6dBmEVejWejxuhxi9y6
+zsh: no such file or directory: Rum9NbjtASXXAI/s4ibkQs+1ajbQo6Xby2kfb6ctl7YTLEISs6NIxsEZ/ISVatHL
+zsh: no such file or directory: 4KmbGDL45/xc3x0Tzl2jiZ3+hb4T9/a3BVeQgoi+0wI4lIErHmLaAv1wrQv004Dy
+zsh: no such file or directory: Zjnmz8nxId1872VpHeCly0Khh0lvHjha6pzvFrezVsFDwQZBQ8XtC1e3lT7mb6z/
+zsh: command not found: xVG44BW8jQc3ckoIXdA9VW0DpWtV0eiSh+P3P0iGVTtosF8QjgsYPHgoMo28lLQt
+zsh: no such file or directory: Covb2M1xAoGBAO0CQ4fB/fMJ0LxHocB7RCVtyxhJKieoL4ioEmNodO3CzyzewT+g
+zsh: no such file or directory: i21pLAJ3PDVZTxY6nA8f9/KHJYF2EbDyuYbrg4GPlH2fxCGalcJKGNLxQ02JWAtU
+zsh: command not found: X3iBD8kodHr4xDI3UgbD9yEXr64UWWYM6dRxelD1xsEmo8r8CbGpUMcJAoGBAP3Y
+zsh: no such file or directory: f4/d0HGo1WIXSDrj/mmQb4fRrYgnJ+YQi7w+/PNImzq/MfyZ8wi9RTFLuFMGPKMj
+zsh: no such file or directory: RZd92xw5bVC7kC7nb4h/kurMN/yVS7ituoGWz3QRxFyfFb4bzUhKYxpRVsWEWz1r
+zsh: no such file or directory: ZzKE0W/TvYXoREUXsNhhAIG91kFN0umPdbmqjfIzAoGAIiORVpy616cySeyHgBJB
+zsh: no such file or directory: XqLR/k2LpOq07hpHi8ogDZ9h+DSd4WxeqQPdMv25znVuzuTiVctlC6or3NoE8lgE
+zsh: no such file or directory: IUsLRj5IRVAeEDkUGUhTCw91glWmOPuORO1SOMd6/7uVhyYwyoivsDSZOZn0xp5V
+zsh: no such file or directory: kCRIWiEM4AWQ0kw7mTuqRwECgYBBxtXXG60lppAUaOAIkoecJxcfZI/I1gyaqvLq
+zsh: no such file or directory: ho/ZIplGscBsKiA1xYWmbm6G5PjVdRBVXwFl4OOYpeGIpePaxOP2/5AKXU1Pv4Sy
+zsh: no such file or directory: i7eZ5fix328s4dthvhTL/wOzDsbttWT6TDxQ89cKWdNG7AqhJxGQjPZ12YqrhscE
+zsh: no such file or directory: o1NAzQKBgBCcaEnxupeKlzZ84/F1HUKJH0s86gFhWvVNFBFZTvoQqhyGmHPU0Dil
+zsh: no such file or directory: mDHwsFLWV49Baw8GA+kiNiywVDhBtIIGJpH/jfjVGlJ4o/GTZQ1hPqHZdGdnph7s
+zsh: command not found: 46uAiiR5IjFr++M+em5mq9zlMifuwUUXE34aLqHAl+SbNIPMGgSD
+zsh: command not found: -----END
+displaycomputer@DisplayComputers-MacBook-Pro ~ % -----BEGIN CERTIFICATE-----
+MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+/LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+Dckc
+-----END CERTIFICATE-----
+zsh: command not found: -----BEGIN
+zsh: command not found: MIIDLzCCAhegAwIBAgIUeJtyByZMnCjS+jf4QVxp99wrZ8swDQYJKoZIhvcNAQEL
+zsh: command not found: BQAwFDESMBAGA1UEAxMJdmF1bHQuZWtzMB4XDTIxMDEyNjIyNDEyNloXDTMxMDEy
+zsh: command not found: NDIyNDE1NlowFDESMBAGA1UEAxMJdmF1bHQuZWtzMIIBIjANBgkqhkiG9w0BAQEF
+zsh: no such file or directory: AAOCAQ8AMIIBCgKCAQEA3zKm6yK5q7extSOBcV6VFqxjEw/moeeSNr78Al8v8fJc
+zsh: no such file or directory: JS2/9guL0gpolhsS0kuAXxiKLXUbHwPY86zT2LlNAjuiGMs/ckuogju+I0k3tuY6
+zsh: command not found: NX5vvxEJ215cG6SmOxjOGFo31Pkq4u0mH80MbkyyzmoGGw2bcWjV3cspRYhJ3nXb
+zsh: no such file or directory: 7ix/MXHDoJwh2Oq9tTnXx+9aKISV8l9YenT+hWy33VlqcbDRALC8CXXDxTLVqrYa
+zsh: no such file or directory: WvuKB1z/p/ERq/Mk4lSfb+pS2BJ35AOXs4zJKyOtJpjJwxBXLxyZpff9oDIVXPh4
+zsh: command not found: 4Fo9hG0FqJl1MbPUav3mkK6q7JRhDxqiTDZV2L1OGwIDAQABo3kwdzAOBgNVHQ8B
+zsh: no such file or directory: Af8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUPGPdIVjPBnnUO18l
+zsh: command not found: lh43+gKI9mQwHwYDVR0jBBgwFoAUPGPdIVjPBnnUO18llh43+gKI9mQwFAYDVR0R
+zsh: command not found: BA0wC4IJdmF1bHQuZWtzMA0GCSqGSIb3DQEBCwUAA4IBAQAd7tzev3wi9bEXf11y
+zsh: no such file or directory: WeO4P0jztV8VOvTLPTtYFfOXpGgtMyQJ/BHOPVqDC0yBpT7ZmimmYRskp+SxkpTC
+zsh: no such file or directory: lcG2H/QXPxhDLEygQ5sjwPvLIIqgfpuTShqLjVLTvpKPI21WQ0V4guCEombkpwb4
+zsh: no such file or directory: /LOnZK+wd5yexbhmIQWNYQg0GhUHxXM0iakEcg9DdEchhCioxs09oz3+b+bGD7po
+zsh: no such file or directory: wz/r1qfxDlc6NoufzJXgmLcAnrZmqw2ja1MF3Q+VxHOq8JL3dGGpLvvZ1JaQ7eU0
+zsh: no such file or directory: iqUWqlrDUn2o+baeEy3MmwAoubQCcn7BiZhCUh0jJCCQiRiq/0PCapyvzYrSTIbW
+zsh: command not found: Dckc
+zsh: command not found: -----END
+displaycomputer@DisplayComputers-MacBook-Pro ~ % >....                          
+admin:
+  enabled: false
+
+env:
+  role: data_plane
+  database: "off"
+  vitals_ttl_days: 732
+  cluster_mtls: pki
+  cluster_control_plane: kong-cpoutlet-mindinccorporate738925.cp.konnect.konghq.com:443
+  cluster_server_name: kong-cpoutlet-mindinccorporate738925.cp.konnect.konghq.com
+  cluster_telemetry_endpoint: kong-telemetry-mindinccorporate738925.tp.konnect.konghq.com:443
+  cluster_telemetry_server_name: kong-telemetry-mindinccorporate738925.tp.konnect.konghq.com
+  cluster_ca_cert: /etc/secrets/kong-cluster-ca/ca.crt
+  cluster_cert: /etc/secrets/kong-cluster-cert/tls.crt
+  cluster_cert_key: /etc/secrets/kong-cluster-cert/tls.key
+
+ingressController:
+  enabled: false
+  installCRDs: false
+zsh: command not found: image:
+zsh: command not found: repository:
+zsh: command not found: tag:
+zsh: command not found: secretVolumes:
+zsh: command not found: kong-cluster-cert
+zsh: command not found: kong-cluster-ca
+zsh: command not found: admin:
+zsh: command not found: enabled:
+zsh: command not found: env:
+zsh: command not found: role:
+zsh: command not found: database:
+zsh: command not found: vitals_ttl_days:
+zsh: command not found: cluster_mtls:
+zsh: command not found: cluster_control_plane:
+zsh: command not found: cluster_server_name:
+zsh: command not found: cluster_telemetry_endpoint:
+zsh: command not found: cluster_telemetry_server_name:
+zsh: command not found: cluster_ca_cert:
+zsh: command not found: cluster_cert:
+zsh: command not found: cluster_cert_key:
+zsh: command not found: ingressController:
+zsh: command not found: enabled:
+zsh: command not found: installCRDs:
+displaycomputer@DisplayComputers-MacBook-Pro ~ % 
